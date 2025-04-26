@@ -1,0 +1,3 @@
+Simple application on Observer Design Pattern
+It is about community that includes bloggers and followers
+when blogger upload a video the followers are been notified 
